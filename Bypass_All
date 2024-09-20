@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "type": null,
+            "port": "0-65535",
+            "inboundTag": [],
+            "outboundTag": "direct",
+            "ip": null,
+            "domain": null,
+            "protocol": null,
+            "enabled": true
+        }
+    ]
+}
