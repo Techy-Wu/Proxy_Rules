@@ -1,0 +1,17 @@
+[
+    {
+        "inboundTag": [],
+        "outboundTag": "proxy",
+        "domain": [
+            "domain:openai.com",
+            "domain:cloudflare.com"
+        ],
+        "enabled": true
+    },
+    {
+        "port": "0-65535",
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "enabled": true
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "domain": [
+            "bing.com"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "domain": [
+            "scut.edu.cn"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "proxy",
+        "domain": [
+            "webvpn.neu.edu.cn"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "domain": [
+            "cnki.net",
+            "clarivate.cn",
+            "science.org",
+            "aps.org"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "ip": [
+            "::/0"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "domain": [
+            "domain:ourneu.space"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "domain": [
+            "domain:npupt.com",
+            "domain:tjupt.org"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "proxy",
+        "domain": [
+            "domain:svc.ms",
+            "domain:sharepointonline.com",
+            "domain:spoprod-a.akamaihd.net",
+            "domain:g.live.com",
+            "domain:oneclient.sfx.ms",
+            "domain:search.production.apac.trafficmanager.net",
+            "domain:search.production.emea.trafficmanager.net",
+            "domain:search.production.us.trafficmanager.net",
+            "domain:storage.live.com",
+            "domain:ssw.live.com",
+            "domain:www.onedrive.com",
+            "domain:account.live.com",
+            "domain:login.live.com"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "proxy",
+        "domain": [
+            "domain:onedrive.com",
+            "domain:onedrive.com",
+            "domain:onedrive.live.com",
+            "domain:login.live.com",
+            "domain:g.live.com",
+            "domain:spoprod-a.akamaihd.net",
+            "domain:mesh.com",
+            "domain:p.sfx.ms",
+            "domain:oneclient.sfx.ms",
+            "domain:microsoft.com",
+            "domain:fabric.io",
+            "domain:crashlytics.com",
+            "domain:vortex.data.microsoft.com",
+            "domain:posarprodcssservice.accesscontrol.windows.net",
+            "domain:redemptionservices.accesscontrol.windows.net",
+            "domain:token.cp.microsoft.com",
+            "domain:tokensit.cp.microsoft-tst.com",
+            "domain:office.com",
+            "domain:officeapps.live.com",
+            "domain:aria.microsoft.com",
+            "domain:mobileengagement.windows.net",
+            "domain:branch.io",
+            "domain:adjust.com",
+            "domain:servicebus.windows.net",
+            "domain:vas.samsungapps.com",
+            "domain:odc.officeapps.live.com",
+            "domain:login.windows.net",
+            "domain:login.microsoftonline.com",
+            "domain:onedrive.com",
+            "domain:onedrive.com",
+            "domain:onedrive.live.com",
+            "domain:login.live.com",
+            "domain:g.live.com",
+            "domain:spoprod-a.akamaihd.net",
+            "domain:mesh.com",
+            "domain:p.sfx.ms",
+            "domain:oneclient.sfx.ms",
+            "domain:microsoft.com",
+            "domain:fabric.io",
+            "domain:crashlytics.com",
+            "domain:vortex.data.microsoft.com",
+            "domain:posarprodcssservice.accesscontrol.windows.net",
+            "domain:redemptionservices.accesscontrol.windows.net",
+            "domain:token.cp.microsoft.com",
+            "domain:tokensit.cp.microsoft-tst.com",
+            "domain:office.com",
+            "domain:officeapps.live.com",
+            "domain:aria.microsoft.com",
+            "domain:mobileengagement.windows.net",
+            "domain:branch.io",
+            "domain:adjust.com",
+            "domain:servicebus.windows.net",
+            "domain:vas.samsungapps.com",
+            "domain:odc.officeapps.live.com",
+            "domain:login.windows.net",
+            "domain:login.microsoftonline.com"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "domain": [
+            "domain:neu.edu.cn",
+            "domain:neu.cn",
+            "domain:neu6.edu.cn"
+        ],
+        "enabled": true
+    },
+    {
+        "inboundTag": [],
+        "outboundTag": "direct",
+        "ip": [
+            "202.199.14.2",
+            "219.216.96.4",
+            "210.30.204.138"
+        ],
+        "enabled": true
+    },
+    {
+        "port": "0-65535",
+        "inboundTag": [],
+        "outboundTag": "proxy",
+        "enabled": true
+    }
+]
